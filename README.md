@@ -85,6 +85,9 @@ CheckoutGuard/
 │   │   ├── TC03_quantity_exact_total.png
 │   │   ├── MT01_empty_cart_checkout.png
 │   │   └── MT02_rapid_double_click.png
+│   ├── DEMO_VIDEO_SCRIPT.md      # 2-3 minute storyboard, recording actions, and voiceover
+│   ├── FINAL_RELEASE_REPORT.md   # Release engineer & SDET audit certification
+│   ├── SUBMISSION_CHECKLIST.md   # Official FyndHacks hackathon submission checklist
 │   ├── TEST_PLAN.md              # Test strategy and test case specifications
 │   └── TEST_RESULTS.md           # Execution summary and zero-defect report
 ├── playwright-report/            # Generated Playwright HTML report
